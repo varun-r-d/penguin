@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_513778_penguin.feature1_user_</name>
+        <requires_subscription>0</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>feature1_user_</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>varun_admin</sys_created_by>
+        <sys_created_on>2021-02-26 15:09:33</sys_created_on>
+        <sys_id>96e088ce07266010333cf6fd7c1ed093</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_513778_penguin.feature1_user_</sys_name>
+        <sys_package display_value="penguin" source="x_513778_penguin">26a76fb907e26010333cf6fd7c1ed04b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="penguin">26a76fb907e26010333cf6fd7c1ed04b</sys_scope>
+        <sys_update_name>sys_user_role_96e088ce07266010333cf6fd7c1ed093</sys_update_name>
+        <sys_updated_by>githubuser1_admin</sys_updated_by>
+        <sys_updated_on>2021-02-26 15:15:18</sys_updated_on>
+    </sys_user_role>
+</record_update>
