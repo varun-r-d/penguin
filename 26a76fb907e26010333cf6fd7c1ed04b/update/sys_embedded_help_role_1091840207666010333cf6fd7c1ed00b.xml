@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_513778_penguin.feature1_1_user" name="x_513778_penguin.feature1_1_user">1c91c00e07266010333cf6fd7c1ed053</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>githubuser1_admin</sys_created_by>
+        <sys_created_on>2021-02-26 15:12:25</sys_created_on>
+        <sys_id>1091840207666010333cf6fd7c1ed00b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1c91c00e07266010333cf6fd7c1ed053</sys_name>
+        <sys_package display_value="penguin" source="x_513778_penguin">26a76fb907e26010333cf6fd7c1ed04b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="penguin">26a76fb907e26010333cf6fd7c1ed04b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1091840207666010333cf6fd7c1ed00b</sys_update_name>
+        <sys_updated_by>githubuser1_admin</sys_updated_by>
+        <sys_updated_on>2021-02-26 15:12:25</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
